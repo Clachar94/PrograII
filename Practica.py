@@ -16,3 +16,7 @@ def maximo(A, B, C):
 # Función que retorna el promedio de dos valores
 def mean(A, B):
     return mean(A, B)
+
+# Función que suma dos valores
+def sum(A, B):
+    return sum(A, B)
